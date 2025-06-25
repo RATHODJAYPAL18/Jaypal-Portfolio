@@ -1,0 +1,52 @@
+color pelllete for portfolio
+primary back-color: #F9FAFB
+better then white: #FFFFFF
+
+secondary back-color: #0F0F0F /used for text as well
+primary color for btn and cta : #3B82F6
+btn and cta hover color: #2563EB
+this will be also in option: #A855F7
+
+
+:root {
+  --color-bg: #F9FAFB;
+  --color-text: #0F0F0F;
+  --color-primary-cta: #3B82F6;
+  --color-primary-cta-hover: #2563EB;
+  --color-accent-hover: #A855F7;
+  --color-highlited-text: #111827;
+
+}
+
+
+| Style             | HEX       | Use Case                                 |
+| ----------------- | --------- | ---------------------------------------- |
+| **Slate Gray**    | #1E293B | Professional, clean, minimal             |
+| **Indigo**        | #4F46E5 | Bold but refined (works great with blue) |
+| **Navy Blue**     | #1E40AF | Confident, dev-style blue-black          |
+| **Charcoal**      | #111827 | Sharp and dark without harsh black       |
+| **Midnight Blue** | #0B1120 | Very dark, moody tech vibe               |
+
+
+| **Dark Gray**     | #333333 | Neutral, dark gray for contrast          |
+| **Dark Blue**     | #2F4F7F | Deep, rich blue for
+
+
+
+
+
+Hi, I’m Jaypal. I come from a non-technical background, 
+but I decided to pursue a career in IT after completing 12th.
+
+In the beginning, I struggled to understand basic coding, but I didn’t give up. 
+I explored different fields in IT and 
+chose to become a MERN Stack Developer — with a strong focus on backend development.
+
+Now, I’ve built a solid foundation in HTML, CSS, JavaScript, Node.js, and databases like PostgreSQL.
+ I’m currently working on real projects and preparing for an internship in the next 6 months.
+
+I’m passionate about backend development, always eager to learn, 
+and ready to grow in a professional environment.
+
+
+
